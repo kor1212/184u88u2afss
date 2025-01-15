@@ -44,7 +44,7 @@ echo.
 echo.
 echo.
 echo.
-echo %w%                                                 Developed by zCipher
+echo %w%                                                 Developed by zCipher and zWaze
 echo %w%                                          Thank you for using Xperience Tweaks
 echo %w%                                            %g%Press any key to get started%u%            
 echo.                                
@@ -59,7 +59,7 @@ echo.
 echo.
 echo %u%[%g%+%u%] %g%Successful! 
 echo.
-echo %u%Developed by: %g%zCipher
+echo %u%Developed by: %g%zCipher and zWaze
 echo.
 echo.
 echo.
@@ -274,7 +274,7 @@ echo %g%_____________________________________
 echo.
 echo.
 echo.
-echo      %c%Created by zCipher%u%
+echo      %c%Created by zCipher and zWaze%u%
 echo %c%This is a GUI for the Xperience Tweaks%u%
 echo.
 echo %g%======PRESS ANY KEY TO CONTINUE======
@@ -313,7 +313,7 @@ echo %c%I recommend creating a manual restore point before%u%
 echo %c%executing any tweaks.%u% 
 echo.
 echo %c%If you have any questions or concerns, please get in touch with me%u%
-echo %c%on%u% %y%Discord at zCipher%u%
+echo %c%on%u% %y%Discord at zCipher and zWaze%u%
 echo.
 echo %g%======PRESS ANY KEY TO CONTINUE======
 
@@ -4247,7 +4247,7 @@ goto 89
 title Thanks for using Xperience Tweaks!
 cls
 echo.            
-echo %u%Developed by: %c%zCipher
+echo %u%Developed by: %c%zCipher and zWaze
 echo %u%Github: %c%https://github.com/Xperience
 timeout /t 5 >nul
 exit
